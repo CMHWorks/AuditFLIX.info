@@ -1,4 +1,4 @@
-## AUditFLIX Real-Time COmpliance Dashboard
+## AUditFLIX Real-Time Compliance Dashboard
 
 You can use the [editor on GitHub](https://github.com/CMHWorks/AuditFLIX.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
