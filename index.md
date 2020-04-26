@@ -11,7 +11,7 @@ The AuditFLIX Dashboard is a real-time dashboard that displays current complianc
 
 
 ## Accessing the AuditFLIX Dashboard
-The Auditflix Dashboard can be accessed by visiting [AuditFLIX.AuditPro.com] (https://dev.auditflix.auditpro.com/). Once you have accessed the link, you will be required to enter a unique AuditFLIX Dashboard ID, which should be provide by your administrator.
+The Auditflix Dashboard can be accessed by visiting [AuditFLIX.AuditPro.com] (https://dev.auditflix.auditpro.com/). Once you have accessed the link, you will be required to enter a unique AuditFLIX Dashboard ID, which should be provided by your administrator.
 1.	Upon successfully accessing the AuditFLIX Dashboard link, enter the unique Dashboard ID into the Dashboard Information pop-up. Select Save. 
 
 2.	In the Full Screen display modal, select **OK** to view the Dashboard in full screen. The Dashboard is optimized to be viewed in Full Screen Mode. 
@@ -19,7 +19,7 @@ The Auditflix Dashboard can be accessed by visiting [AuditFLIX.AuditPro.com] (ht
 
 
 ## AuditFLIX Dashboard Display
-The AuditFLIX Dashboard displays real-time AuditPRO compliance issues in various Bar Graphs and List Grids. The Bar Graphs are designed to report real-time Open Issues, Closed Issues and the Average Number of Days an Issue is open for a certain duration of time. The List Grid displays the details for each of the open compliance issues. 
+The AuditFLIX Dashboard displays real-time AuditPRO compliance issues in various bar graphs and list grids. The Bar Graphs are designed to report real-time Open Issues, Closed Issues and the Average Number of Days an Issue is open for a certain duration of time. The List Grid displays the details for each of the open compliance issues. 
 
 #### Open Issues Bar Graph
 This Bar Graph displays the number of open compliance issues currently within your environment by Date and Count of Open Issues. The Bar Graph only renders for a specified length of time (ex. 30 Days). 
@@ -38,7 +38,7 @@ A variety of details are available in the Open Issues grid list to provide conte
 
 
 ## AuditFLIX Settings Options
-The AuditFLIX Settings options controls a variety of functionality from viewing in Full Screen Mode, setting page timing cycles, entering various dashboard IDs and navigating a user to supporting AuditFLIX Help Documentation. 
+The AuditFLIX Settings options controls a variety of functionality from viewing in Full Screen Mode, setting page timing cycles, entering various ashboard IDs and navigating a user to supporting AuditFLIX Help Documentation. 
 Below is a list of the AuditFLIX Settings Options
 
 #### Full Screen Settings Option
