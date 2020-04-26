@@ -9,6 +9,7 @@ The AuditFLIX Dashboard is a real-time dashboard that displays current complianc
 
 
 
+
 ## Accessing the AuditFLIX Dashboard
 The Auditflix Dashboard can be accessed by visiting [AuditFLIX.AuditPro.com] (https://dev.auditflix.auditpro.com/). Once you have accessed the link, you will be required to enter a unique AuditFLIX Dashboard ID, which should be provide by your administrator.
 1.	Upon successfully accessing the AuditFLIX Dashboard link, enter the unique Dashboard ID into the Dashboard Information pop-up. Select Save. 
@@ -16,40 +17,42 @@ The Auditflix Dashboard can be accessed by visiting [AuditFLIX.AuditPro.com] (ht
 2.	In the Full Screen display modal, select **OK** to view the Dashboard in full screen. The Dashboard is optimized to be viewed in Full Screen Mode. 
 
 
+
 ## AuditFLIX Dashboard Display
 The AuditFLIX Dashboard displays real-time AuditPRO compliance issues in various Bar Graphs and List Grids. The Bar Graphs are designed to report real-time Open Issues, Closed Issues and the Average Number of Days an Issue is open for a certain duration of time. The List Grid displays the details for each of the open compliance issues. 
 
-### Open Issues Bar Graph
+#### Open Issues Bar Graph
 This Bar Graph displays the number of open compliance issues currently within your environment by Date and Count of Open Issues. The Bar Graph only renders for a specified length of time (ex. 30 Days). 
 
-### Closed Issues Bar Graph
+#### Closed Issues Bar Graph
 This Bar Graph displays the number of closed compliance issues currently within your environment by Date and Count of Closed Issues. The Bar Graph only renders for a specified duration of time (ex. 30 Days). 
 
-### Average Days Open Bar Graph
+#### Average Days Open Bar Graph
 This Bar Graph displays the average number of days a compliance issue is open within your environment by Date and Count of Open Issues. The Bar Graph only renders for a specified duration of time (ex. 30 Days). 
 
-### Open Issues List Grid
+#### Open Issues List Grid
 The Open Issues list grid displays a list of the current open issues within your environment for a specified duration of time. The Open Issues list grid automatically cycles through the pages if there are more than 10 issues present in the list. The page cycling time can be modified based on user preference. 
 
 A variety of details are available in the Open Issues grid list to provide contextual information about each of the open issues. Please see the below definitions grid for each column type.
+
 
 
 ## AuditFLIX Settings Options
 The AuditFLIX Settings options controls a variety of functionality from viewing in Full Screen Mode, setting page timing cycles, entering various dashboard IDs and navigating a user to supporting AuditFLIX Help Documentation. 
 Below is a list of the AuditFLIX Settings Options
 
-### Full Screen Settings Option
+#### Full Screen Settings Option
 This settings option allows the user to control viewing the AuditFLIX Dashboard in Full Screen. 
 •	Selecting **OK* will displays the dashboard in Full Screen Mode
 •	Selecting **Close** will displays the dashboard in your browsers default orientation 
 
-### Page Timing Settings Option
+#### Page Timing Settings Option
 This settings option allows a user to control the speed of the page cycling for the Open Issues grid list. The Dashboard automatically cycles through pages if there are more than 10 open issues. A user can select the frequency based on their preference. 
 
-### Enter Dashboard ID
+#### Enter Dashboard ID Settings Option
 This settings option allows a user to enter in various Dashboard IDs to view the appropriate AuditFLIX Dashboard. 
 
-### Documentation Settings Option
+#### Documentation Settings Option
 This settings option leads the user to the AuditFLIX Real-Time Compliance Dashboard help pages. Don’t look to far, you are already here! These help pages provide instructional information in navigating and understanding the AuditFLIX Dashboard. 
 
 
