@@ -43,8 +43,8 @@ Below is a list of the AuditFLIX Settings Options
 
 #### Full Screen Settings Option
 This settings option allows the user to control viewing the AuditFLIX Dashboard in Full Screen. 
-•	Selecting **OK* will displays the dashboard in Full Screen Mode
-•	Selecting **Close** will displays the dashboard in your browsers default orientation 
+1. Selecting **OK** will display the dashboard in Full Screen Mode
+2. Selecting **Close** will display the dashboard in your browser's default orientation 
 
 #### Page Timing Settings Option
 This settings option allows a user to control the speed of the page cycling for the Open Issues grid list. The Dashboard automatically cycles through pages if there are more than 10 open issues. A user can select the frequency based on their preference. 
