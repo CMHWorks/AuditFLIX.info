@@ -7,6 +7,9 @@
 
 The AuditFLIX Dashboard is a real-time dashboard that displays current compliance issues found in your environment. It is designed as a hands-off monitoring view that can be viewed on any sized device. The AuditFLIX Dashboard provided a view of open issues in realtime on a TV monitor for use in location like Security Operations Centers, Shared Work Areas, or anywhere a realtime view of current Issues and Requests are needed.
 
+# Accessing the AuditFLIX Dashboard
+
+The Auditflix Dashboard can be accessed by visiting [AuditFLIX.AuditPro.com] (https://dev.auditflix.auditpro.com/). Once you have accessed the link, you will be required to enter a unique AuditFLIX Dashboard ID, which should be provide by your administrator.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
