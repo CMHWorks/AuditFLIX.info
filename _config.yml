@@ -1,2 +1,20 @@
+# Site wide configuration
+
+title: AuditFLIX.info
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
 theme: jekyll-theme-cayman
 url: auditflix.info
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: CMHWorks, LLC.
+  avatar: bio-photo.jpg
+  bio: "Where the Web Works."
+  email: info@cmhworks.com
+  # Do not include the @ symbol in your Twitter username
+  twitter: cmhworks
+  linkedin: #cmhworks
+  facebook: cmhworks
+  instagram: cmhworks
+
